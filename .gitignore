@@ -4,5 +4,3 @@ npm-debug.log
 .vscode
 .coveralls.yml
 test/coverage/*
-dist/build.js
-dist/build.js.map
